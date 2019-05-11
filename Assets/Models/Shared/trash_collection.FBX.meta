@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: f8bf5e602d1c334499cc47cd3ac0289d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1
+    100002: 1_2
+    100004: 1_3
+    100006: 1_4
+    100008: 2
+    100010: 2_2
+    100012: 2_3
+    100014: 2_4
+    100016: 3
+    100018: 3_2
+    100020: 3_3
+    100022: 4
+    100024: Bar
+    100026: Box
+    100028: Bricks
+    100030: Cans
+    100032: Coffee
+    100034: Else
+    100036: Matches
+    100038: Milk
+    100040: Newspaper
+    100042: //RootNode
+    400000: 1
+    400002: 1_2
+    400004: 1_3
+    400006: 1_4
+    400008: 2
+    400010: 2_2
+    400012: 2_3
+    400014: 2_4
+    400016: 3
+    400018: 3_2
+    400020: 3_3
+    400022: 4
+    400024: Bar
+    400026: Box
+    400028: Bricks
+    400030: Cans
+    400032: Coffee
+    400034: Else
+    400036: Matches
+    400038: Milk
+    400040: Newspaper
+    400042: //RootNode
+    2100000: cans_mat
+    2100002: matches
+    2100004: bricks_mat
+    2100006: coffee_cups_mat
+    2100008: milk_mat
+    2100010: bar_mat
+    2100012: else_mat
+    2100014: box_mat
+    2100016: newspaper_mat
+    2300000: 1
+    2300002: 1_2
+    2300004: 1_3
+    2300006: 1_4
+    2300008: 2
+    2300010: 2_2
+    2300012: 2_3
+    2300014: 2_4
+    2300016: 3
+    2300018: 3_2
+    2300020: 3_3
+    2300022: 4
+    2300024: Bar
+    2300026: Box
+    2300028: Else
+    2300030: Milk
+    2300032: Newspaper
+    3300000: 1
+    3300002: 1_2
+    3300004: 1_3
+    3300006: 1_4
+    3300008: 2
+    3300010: 2_2
+    3300012: 2_3
+    3300014: 2_4
+    3300016: 3
+    3300018: 3_2
+    3300020: 3_3
+    3300022: 4
+    3300024: Bar
+    3300026: Box
+    3300028: Else
+    3300030: Milk
+    3300032: Newspaper
+    4300000: 3
+    4300002: 2
+    4300004: 1
+    4300006: 1_2
+    4300008: 2_2
+    4300010: 3_2
+    4300012: 4
+    4300014: 1_3
+    4300016: 2_3
+    4300018: 3_3
+    4300020: 2_4
+    4300022: 1_4
+    4300024: Milk
+    4300026: Bar
+    4300028: Else
+    4300030: Box
+    4300032: Newspaper
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bar_mat
+    second: {fileID: 2100000, guid: d8ceaeb0fecd92d41a9e5e7f3985761f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: box_mat
+    second: {fileID: 2100000, guid: 106b9127add3ee04f8a33b9a6ff8768f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bricks_mat
+    second: {fileID: 2100000, guid: 5592da2c4bc7f5744b419ba2c62b8cc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cans_mat
+    second: {fileID: 2100000, guid: 1deac04e18486a846b3306649e31cc14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coffee_cups_mat
+    second: {fileID: 2100000, guid: 21883871a9095354c9f0101d5b781a29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: else_mat
+    second: {fileID: 2100000, guid: 0b2678608d940a64ea233303f62145ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: matches
+    second: {fileID: 2100000, guid: afd518bd3f9de0b49b9c96e526612527, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: milk_mat
+    second: {fileID: 2100000, guid: 8a3c83b7a1d24304ab8c92ee8ea8bfbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: newspaper_mat
+    second: {fileID: 2100000, guid: 6a49cb9360bd31e4698d099470497f5e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

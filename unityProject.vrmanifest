@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.darklight.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Projects\\VR_projects\\BACKUPS\\DarkLight_BackUp_beforeSteamVRUpdate\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "DarkLight [Testing]"
+        }
+      }
+    }
+  ]
+}

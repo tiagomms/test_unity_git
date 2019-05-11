@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6af2ef85cfbc8a748ab179aa47029530
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - voiceInputAction: {instanceID: 0}
+  - trashObjectsHandling: {instanceID: 0}
+  - turnOnClip: {fileID: 8300000, guid: f504e07fe68dd834fa16ea32c82c3b43, type: 3}
+  - turnOffClip: {fileID: 8300000, guid: 9e163e2aa9b106c47a0180e09d7121eb, type: 3}
+  - successClip: {fileID: 8300000, guid: e44e2bb3885b7424a8109ba6e0fd0aa8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
